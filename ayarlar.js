@@ -1,6 +1,6 @@
 module.exports = {
 	// [---------------------]
-  // [     Bot Ayarları    ]
+	// [     Bot Ayarları    ]
 	// [---------------------]
 	"botPrefix": ".", // Botun prefixini girin, varsayılan değer "!"dir.
 	"botToken": "VDQyNjY2njczOTcxNTg5MTIw.YJ4pbQ.KTOzl760sAlFuFtl29lnhHVagyE", // Botun tokenini girin.
@@ -8,14 +8,14 @@ module.exports = {
 	"botDurum": "Lawnless ❤️", // Durumda sunucu adından önce gelen kısımdır.
 	"botOynuyor": "PLAYING", // "PLAYING", "LISTENING", "STREAMING", "CUSTOM_STATUS" herhangi birini kullanabilirsiniz.
 	// [---------------------]
-  // [    Emoji Ayarları   ]
+	// [    Emoji Ayarları   ]
 	// [---------------------]
 	"emojiUnlem": "83633626984505762", // Ünlem işareti emojisinin idsini girin.
 	"emojiSoru": "836336276701671901", // Soru işareti emojisinin idsini girin.
 	"emojiOnay": "836336288473808956", // Onay emojisinin idsini girin.
 	"emojiRed": "836336288722190300", // Red emojisinin idsini girin.
 	// [---------------------]
-  // [   Sunucu Ayarları   ]
+	// [   Sunucu Ayarları   ]
 	// [---------------------]
 	"sunucuIsim": "Lawn's Kingdom", // Sunucu ismini girin.
 	"sunucuID": "823652318536925211", // Sunucu idsini girin.
@@ -32,7 +32,7 @@ module.exports = {
 	"sunucuVIPRol": "833319057775919154", // VIP rolünün idsini girin.
 	"sunucuDGKORol": "834757441702199326", // Doğum Günü olan kişiye verilecek rolün idsini girin.
 	// [---------------------]
-  // [  Ses Sistemi Ayar   ]
+	// [  Ses Sistemi Ayar   ]
 	// [---------------------]
 	"sesKanal": "823668839907983360", // Botun bağlanacağı sesli kanalın idsini girin.
 	"sesVideoURL": "https://www.youtube.com/watch?v=JAR4LHKvV5U", // Botun çalacağı şarkıyı ya da ses efektini URL şeklinde girin.
